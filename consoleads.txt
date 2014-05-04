@@ -1,5 +1,2 @@
-Want donate to Gold Tree Emulator project? Go to this link: http://pok.li/j03 and you can donate! Thanks! :)
-
-District Hosts - Cheap and reliable host, hosting your needs, VPS, Retros, Dedicated Servers, Minecraft and many more. Districthosts.com
-
-:colorchangingtext 9|10|14|12 250 10 false UPDATE YOUR GTE TO BUILD 1268 OR YOUR HOTEL IS UNSECURE!
+Welcome at Bobba Emulator based on Phoenix!
+:colorchangingtext 9|10|14|12 250 10 false BOBBA EMULATOR BY BOBBA.IN (C) by xAffectum!
