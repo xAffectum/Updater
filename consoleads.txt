@@ -1,5 +1,5 @@
          Welcome at Bobba Emulator based on Phoenix!
-     :textcolor 9|10|14|12 14 10 false BOBBA EMULATOR BY BOBBA.IN (C) by xAffectum!
+     :colorchangingtext 9|10|14|12 14 10 false BOBBA EMULATOR BY BOBBA.IN (C) by xAffectum!
     
 
 
